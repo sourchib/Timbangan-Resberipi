@@ -1,0 +1,4 @@
+Download ISO Rasberry Pi :
+https://downloads.raspberrypi.org/imager/
+Donwload Imager Raspberry Pi :
+Desktop Linux & CLI/Lite Linux : https://www.raspberrypi.com/software/operating-systems/
