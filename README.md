@@ -77,7 +77,6 @@ Program reboot otomatis ketika tidak ada Koneksi Internet :
 #!/bin/bash
 
 TMP_FILE=/tmp/inet_up
-# Edit this function if you want to do something besides reboot
 no_inet_action() {
     shutdown -r +1 'No internet.'
 }
