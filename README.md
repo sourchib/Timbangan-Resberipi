@@ -37,7 +37,7 @@ Instalasi Software
 <li>raspi-config konfigurasi wifi</li>
 <li>ping 8.8.8.8</li>
 <li>konfigurasi WiFi
-<a href ="https://weworkweplay.com/play automatically-connect-a-raspberry-pi-to-a-wifi-network">Button link </a></li>
+<a href ="https://www.seeedstudio.com/blog/2021/01/25/three-methods-to-configure-raspberry-pi-wifi/">Button link </a></li>
 <li>apt-get update</li>
 <li>apt-get upgrade</li>
 <li>hostname && hostname -f samakan</li>
